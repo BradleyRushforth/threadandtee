@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/BradleyRushforth/threadandtee/compare/v1.0.0...v1.0.1) (2026-02-16)
+
+
+### Bug Fixes
+
+* testing semantic-versioning ([a1b8a3d](https://github.com/BradleyRushforth/threadandtee/commit/a1b8a3db07d7c66043cb678c2b5ed9de87f370e3))
+
 # 1.0.0 (2026-02-16)
 
 
