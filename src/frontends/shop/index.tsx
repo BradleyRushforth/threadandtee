@@ -4,12 +4,9 @@ import {
   Typography, 
   Grid, 
   Card,
-  CardMedia,
   CardContent,
   Button,
-  Container,
   Chip,
-  Stack
 } from '@mui/material';
 
 const Shop: React.FC = () => {
