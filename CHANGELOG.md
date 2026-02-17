@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/BradleyRushforth/threadandtee/compare/v1.0.3...v1.0.4) (2026-02-17)
+
+
+### Bug Fixes
+
+* removing unused imports ([3f104c6](https://github.com/BradleyRushforth/threadandtee/commit/3f104c668aa93216df6595fc8d8c8cb7ed17e419))
+
 ## [1.0.3](https://github.com/BradleyRushforth/threadandtee/compare/v1.0.2...v1.0.3) (2026-02-17)
 
 
