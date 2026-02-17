@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/BradleyRushforth/threadandtee/compare/v1.0.1...v1.0.2) (2026-02-17)
+
+
+### Bug Fixes
+
+* added general navigation and some styling ready for firebase integration ([2e0c8be](https://github.com/BradleyRushforth/threadandtee/commit/2e0c8be0b7b800b7d88b20c7c584ffaa27eb6f7a))
+
 ## [1.0.1](https://github.com/BradleyRushforth/threadandtee/compare/v1.0.0...v1.0.1) (2026-02-16)
 
 
